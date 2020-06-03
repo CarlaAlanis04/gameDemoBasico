@@ -5,4 +5,4 @@
 - Incorporar un personaje al tablero.
 - Realizar el movimiento del personaje utilizando el teclado.
 - Agregar distintas instancias de un objeto al tablero a la derecha de personaje.
-- Chochar contra los personaje con los objetos y moverse al origen.
+- Chochar el personaje contra las instancias de los objetos que hay en el tablero y moverse el personaje al origen.
